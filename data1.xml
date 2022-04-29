@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<library>
+
+    <book id="1" xmlns:a="http://worldbooks.com">
+        <a:name>Novel</a:name>
+        <a:author>William Shakespear</a:author>
+        <a:price>180 rs.</a:price>   
+    </book>
+    <book id="2" xmlns:b="http://famousbooks.com">
+        <b:name>Harry Potter</b:name>
+        <b:author>Aonymous</b:author>
+        <b:price>300 rs.</b:price>
+    </book>
+
+</library>
