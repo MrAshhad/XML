@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE email
+[
+<!ELEMENT email (to,from,heading,body)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ENTITY writer "writer:Asad">
+]>
+
+
+<email>
+    <to>Ahmed</to>
+    <from>Asad</from>
+    <heading>How R U</heading>
+    <body>I am ok.How about u</body>
+</email>
